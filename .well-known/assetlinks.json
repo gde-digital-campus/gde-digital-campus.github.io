@@ -1,0 +1,11 @@
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls",
+    "delegate_permission/common.get_login_creds"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hu.gde.campus",
+    "sha256_cert_fingerprints": ["4B:8B:E2:25:CB:68:19:81:05:43:FD:6B:4F:0E:CC:07:ED:94:80:41:3E:49:86:A9:93:EF:10:7A:EA:EA:36:A8"]
+  }
+}]
