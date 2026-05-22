@@ -6,6 +6,11 @@
   "target": {
     "namespace": "android_app",
     "package_name": "hu.gde.campus",
-    "sha256_cert_fingerprints": ["4B:8B:E2:25:CB:68:19:81:05:43:FD:6B:4F:0E:CC:07:ED:94:80:41:3E:49:86:A9:93:EF:10:7A:EA:EA:36:A8"]
+    "sha256_cert_fingerprints": [
+      // Prod
+      "4B:8B:E2:25:CB:68:19:81:05:43:FD:6B:4F:0E:CC:07:ED:94:80:41:3E:49:86:A9:93:EF:10:7A:EA:EA:36:A8",
+      // Debug 
+      "83:BC:AE:A6:8C:E9:BB:FF:EB:D7:25:6B:AA:18:88:54:07:46:6C:88:BB:1C:78:5D:8B:6B:F5:A1:2C:07:FB:01"
+    ]
   }
 }]
